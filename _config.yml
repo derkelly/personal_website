@@ -22,8 +22,8 @@ title: Derek E Kelly
 email: derek.e.kelly@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal website for Derek E Kelly
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/personal_website" # the subpath of your site, e.g. /blog
+url: "https://derkelly.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: derekekelly
 github_username:  derkelly
 
