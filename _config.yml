@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about.markdown
+#  - about.markdown
   - research.markdown
   - artwork.markdown
   - cv.markdown
