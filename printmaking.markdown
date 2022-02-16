@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artwork
+title: Printmaking
 permalink: /artwork/printmaking/
 ---
 
