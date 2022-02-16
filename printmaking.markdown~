@@ -1,0 +1,7 @@
+---
+layout: page
+title: Artwork
+permalink: /artwork/
+---
+
+{% include image-gallery.html folder="/assets/images/artwork/printmaking" %}
