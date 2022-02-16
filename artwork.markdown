@@ -13,7 +13,7 @@ permalink: /artwork/
 </style>
 
 
-[Painting](drawing.markdown)  
+[Painting](painting.markdown)  
 [Drawing](drawing.markdown)  
 [Figures](figures.markdown)  
 [Printmaking](printmaking.markdown)  
