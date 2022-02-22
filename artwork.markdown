@@ -13,7 +13,19 @@ permalink: /artwork/
 </style>
 
 
-[<img src="https://images.weserv.nl/?url=derekekelly.com/assets/images/artwork/painting/001_painting.jpeg&w=300&h=300&output=jpg&q=50&t=square">](painting.markdown)
-[<img src="https://images.weserv.nl/?url=derekekelly.com/assets/images/artwork/drawing/001_draw.jpeg&w=300&h=300&output=jpg&q=50&t=square">](drawing.markdown)
-[<img src="https://images.weserv.nl/?url=derekekelly.com/assets/images/artwork/figures/001_fig.jpeg&w=300&h=300&output=jpg&q=50&t=square">](figures.markdown)
-[<img src="https://images.weserv.nl/?url=derekekelly.com/assets/images/artwork/printmaking/001_print.jpeg&w=300&h=300&output=jpg&q=50&t=square">](printmaking.markdown)
+<center>Painting</center>
+[<center><img src="https://images.weserv.nl/?url=derekekelly.com/assets/images/artwork/painting/001_painting.jpeg&w=300&h=300&output=jpg&q=50&t=square"></center>](painting.markdown)
+<br/><br/>
+
+<center>Drawing</center>
+[<center><img src="https://images.weserv.nl/?url=derekekelly.com/assets/images/artwork/drawing/001_draw.jpeg&w=300&h=300&output=jpg&q=50&t=square"></center>](drawing.markdown)
+<br/><br/>
+
+<center>Figures</center>
+[<center><img src="https://images.weserv.nl/?url=derekekelly.com/assets/images/artwork/figures/001_fig.jpeg&w=300&h=300&output=jpg&q=50&t=square"></center>](figures.markdown)
+<br/><br/>
+
+<center>Printmaking</center>
+[<center><img src="https://images.weserv.nl/?url=derekekelly.com/assets/images/artwork/printmaking/001_print.jpeg&w=300&h=300&output=jpg&q=50&t=square"></center>](printmaking.markdown)
+
+
