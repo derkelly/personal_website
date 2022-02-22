@@ -13,10 +13,7 @@ permalink: /artwork/
 </style>
 
 
-[<img src="https://images.weserv.nl/?url=derkelly.github.io/assets/images/artwork/painting/001_painting.jpeg&w=300&h=300&output=jpg&q=50&t=square">](painting.markdown)
-
-[Painting](painting.markdown)  
-[Drawing](drawing.markdown)  
-[Figures](figures.markdown)  
-[Printmaking](printmaking.markdown)  
-
+[<img src="https://images.weserv.nl/?url=derekekelly.com/assets/images/artwork/painting/001_painting.jpeg&w=300&h=300&output=jpg&q=50&t=square">](painting.markdown)
+[<img src="https://images.weserv.nl/?url=derekekelly.com/assets/images/artwork/drawing/001_draw.jpeg&w=300&h=300&output=jpg&q=50&t=square">](drawing.markdown)
+[<img src="https://images.weserv.nl/?url=derekekelly.com/assets/images/artwork/figures/001_fig.jpeg&w=300&h=300&output=jpg&q=50&t=square">](figures.markdown)
+[<img src="https://images.weserv.nl/?url=derekekelly.com/assets/images/artwork/printmaking/001_print.jpeg&w=300&h=300&output=jpg&q=50&t=square">](printmaking.markdown)
