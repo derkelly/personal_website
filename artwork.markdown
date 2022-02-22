@@ -13,6 +13,8 @@ permalink: /artwork/
 </style>
 
 
+[<img src="https://images.weserv.nl/?url=derkelly.github.io/assets/images/artwork/painting/001_painting.jpeg&w=300&h=300&output=jpg&q=50&t=square">](painting.markdown)
+
 [Painting](painting.markdown)  
 [Drawing](drawing.markdown)  
 [Figures](figures.markdown)  
